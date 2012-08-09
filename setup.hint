@@ -1,4 +1,0 @@
-category: Perl
-requires: perl perl-Cache perl-Class-ErrorHandler
-sdesc: "Perl RSS feed fetching module"
-ldesc: "This is a Perl class to intelligently fetch syndication feeds."
