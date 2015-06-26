@@ -1,0 +1,12 @@
+CPAN_AUTHOR=btrott
+inherit perl
+
+NAME="perl-URI-Fetch"
+VERSION=0.09
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl smart URI fetching"
+DESCRIPTION="URI::Fetch is a smart client for fetching HTTP pages, notably
+syndication feeds, in an intelligent, bandwidth- and time-saving way."
+
+ARCH=noarch
