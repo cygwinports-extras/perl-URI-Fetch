@@ -1,8 +1,8 @@
-CPAN_AUTHOR=btrott
+CPAN_AUTHOR=neilb
 inherit perl
 
 NAME="perl-URI-Fetch"
-VERSION=0.09
+VERSION=0.10
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl smart URI fetching"
